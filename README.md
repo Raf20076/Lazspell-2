@@ -8,6 +8,11 @@ Lazspell is an example of spelling checker written in Lazarus ide.
 Lazspell is an example of a speller which checks spelling in German, English, Spanish,
 French, Italian, Portugues, Polish and Russian.
 
+In this example TRichMemo component was used. 
+
+Download lazarus-ccr-svn-r....from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tree/
+Go to folder lazarus-ccr-svn-r... -> components -> richmemo and install richmemo component 
+
 All dictionaries are coded in UTF-8 in dict folder from https://github.com/wooorm/dictionaries
 You must distribute dict folder with your program.
 
