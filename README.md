@@ -12,6 +12,7 @@ In this example <b>TRichMemo </b> component was used.
 Install TRichMemo in Lazarus IDE.
 Download TRichMemo from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tree/
 Click Download Snapshot and uncompress lazarus-ccr-svn-r....zip
+Go to folder lazarus-ccr-svn-r... -> components -> richmemo 
 
 <img src="https://raw.githubusercontent.com/Raf20076/Lazspell/master/lazspell.gif"/>
 
