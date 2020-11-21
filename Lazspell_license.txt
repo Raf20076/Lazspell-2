@@ -5,9 +5,10 @@ French, Italian, Portugues, Polish and Russian.
 
 In this example TRichMemo component was used. 
 
-Download lazarus-ccr-svn-r....from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tarball?path=
-Go to folder lazarus-ccr-svn-r... -> components -> richmemo and install richmemo component 
-
+Install TRichMemo from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tree/ 
+Click Download Snapshot and uncompress lazarus-ccr-svn-r....zip
+Go to folder lazarus-ccr-svn-r... -> components -> richmemo 
+ 
 All dictionaries are coded in UTF-8 from https://github.com/wooorm/dictionaries
 
 Lazspell uses hunspell.pas and hunspell.inc from https://github.com/davidbannon/hunspell4pas
