@@ -10,13 +10,8 @@ French, Italian, Portugues, Polish and Russian.
 In this example <b>TRichMemo </b> component was used.
 
 Install TRichMemo in Lazarus IDE.
-Download lazarus-ccr-svn-r....from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tree/
+Download TRichMemo from https://sourceforge.net/p/lazarus-ccr/svn/HEAD/tree/
 Click Download Snapshot and uncompress lazarus-ccr-svn-r....zip
-In Lazarus IDE, click Package -> Open Package Fule (.lpk) go to folder lazarus-ccr-svn-r... -> components -> richmemo 
--> richmemopackage -> click Compile button. After successful compilation:
-In Lazarus IDE, click Package -> Open Package Fule (.lpk) go to folder lazarus-ccr-svn-r... -> components -> richmemo
--> ide -> richmemo_design -> Click Compile button. After successful compilation click Use button and choose Install.
-
 
 <img src="https://raw.githubusercontent.com/Raf20076/Lazspell/master/lazspell.gif"/>
 
