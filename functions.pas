@@ -68,8 +68,8 @@ begin
 function FindInMemo(AMemo: TRichMemo; AString: String; StartPos: Integer): Integer;
 {Find clicked error (word) from ListBoxErrors and highligh it}
 begin
-  //Result := PosEx(AString, AMemo.Text, StartPos);
-  Result := UTF8Pos(AString, AMemo.Text, StartPos);
+  Result := PosEx(AString, AMemo.Text, StartPos);
+  //Result := UTF8Pos(AString, AMemo.Text, StartPos);
   If Result > 0 then
   begin
     AMemo.SelStart := UTF8Length(PChar(AMemo.Text), Result -1);
